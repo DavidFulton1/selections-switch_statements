@@ -1,0 +1,15 @@
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\SelectionStatements1.csproj.AssemblyReference.cache
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\SelectionStatements1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\SelectionStatements1.AssemblyInfoInputs.cache
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\SelectionStatements1.AssemblyInfo.cs
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\SelectionStatements1.csproj.CoreCompileInputs.cache
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\bin\Debug\net6.0\SelectionStatements1.exe
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\bin\Debug\net6.0\SelectionStatements1.deps.json
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\bin\Debug\net6.0\SelectionStatements1.runtimeconfig.json
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\bin\Debug\net6.0\SelectionStatements1.dll
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\bin\Debug\net6.0\SelectionStatements1.pdb
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\SelectionStatements1.dll
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\refint\SelectionStatements1.dll
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\SelectionStatements1.pdb
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\SelectionStatements1.genruntimeconfig.cache
+C:\Users\fulto\Desktop\Repos\SelectionStatements\SelectionStatements1\SelectionStatements1\obj\Debug\net6.0\ref\SelectionStatements1.dll
